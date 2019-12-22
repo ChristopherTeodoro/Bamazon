@@ -22,5 +22,3 @@ VALUES ('Topo Chico', 'Groceries', 1.17 , 500),
 		('Huggies Diapers', 'Children', 2.75, 476),
 		('Charmin Toiler Paper', 'Grocery', 12.99, 575),
         ('Baby Wipes','Children', 5.99, 750);
-        
-        
